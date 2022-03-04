@@ -29,3 +29,4 @@ yum install git
 vi /etc/passwd
 change shell from /bin/false to /bin/bash
 ```
+

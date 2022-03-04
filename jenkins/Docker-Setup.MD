@@ -17,3 +17,4 @@ systemctl enable docker
    jenkins ALL=(ALL) NOPASSWD: ALL
 ```   
    
+

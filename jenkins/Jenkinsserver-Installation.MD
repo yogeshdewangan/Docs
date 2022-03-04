@@ -67,8 +67,8 @@ http://YOUR-SERVER-PUBLIC-IP:8080
 - Create another admin user id
 
 ### Test Jenkins Jobs
-1. Create ï¿½new itemï¿½
-1. Enter an item name ï¿½ `My-First-Project`
+1. Create “new item”
+1. Enter an item name – `My-First-Project`
    - Chose `Freestyle` project
 1. Under Build section
 	Execute shell : echo "Welcome to Jenkins Demo"
